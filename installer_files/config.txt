@@ -1,0 +1,5 @@
+;!@Install@!UTF-8!
+Title="IVSS Installer"
+BeginPrompt="Do you want to start installation of IVSS ?"
+RunProgram="setup.bat"
+;!@InstallEnd@!
